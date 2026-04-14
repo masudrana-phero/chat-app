@@ -5,9 +5,8 @@ A full-stack real-time chat application built using the MERN stack (MongoDB, Exp
 ---
 
 ## 🚀 Live Demo
-🔗 Live Site: https://your-live-link.vercel.app  
-🔗 Client Repo: https://github.com/masudrana-phero/chat-app  
-🔗 Server Repo: https://github.com/masudrana-phero/chat-app  
+🔗 Live Site: https://chat-app-frontend-ten-opal.vercel.app 
+🔗 Source Code Repo: https://github.com/masudrana-phero/chat-app 
 
 ---
 
